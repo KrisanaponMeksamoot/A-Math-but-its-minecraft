@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:light_blue_dye"
+        },
+        {
+            "tag": "minecraft:planks"
+        }
+    ],
+    "result": {
+        "item": "amath:triple_piece_center"
+    }
+}

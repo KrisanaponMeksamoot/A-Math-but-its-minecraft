@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "amath:blank_slot",
+        "amath:double_equation",
+        "amath:double_piece",
+        "amath:triple_equation",
+        "amath:triple_piece_center",
+        "amath:triple_piece"
+    ]
+}

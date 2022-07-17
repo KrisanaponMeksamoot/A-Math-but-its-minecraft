@@ -1,0 +1,5 @@
+{   "parent": "amath:block/tile/base",
+    "textures": {
+        "face": "amath:item/tile/number_15"
+    }
+}
