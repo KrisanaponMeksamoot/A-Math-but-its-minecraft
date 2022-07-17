@@ -9,11 +9,11 @@
     "Krisanapon Meksamoot"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/KrisanaponMeksamoot/",
+    "sources": "https://github.com/KrisanaponMeksamoot/A-Math-but-its-minecraft"
   },
 
-  "license": "CC0-1.0",
+  "license": "Unlicensed",
   "icon": "assets/amath/icon.png",
 
   "environment": "*",
@@ -23,7 +23,6 @@
     ]
   },
   "mixins": [
-    "amath.mixins.json"
   ],
 
   "depends": {
